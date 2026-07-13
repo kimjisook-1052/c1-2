@@ -222,3 +222,7 @@ CapCut	  ⭐⭐⭐	        즉시	     무료	     낮음
    배경음악 (0~10초, 60%)
    내레이션 (6~10초, 100%)
    → 자연스러운 페이드아웃
+
+
+최종완성영상
+https://labs.google/fx/tools/flow/shared/video/c6e4f1a6-1d9c-4b94-9622-4924ac4f6ba0
