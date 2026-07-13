@@ -2,6 +2,9 @@
 
 🌿 네이처본(NatureBorn) AI 광고 영상 제작
  
+최종 결과물 
+
+*스토리보드(기획) 문서 (PDF 1개)
 
 # 브랜드 아이덴티티
 
@@ -224,5 +227,5 @@ CapCut	  ⭐⭐⭐	        즉시	     무료	     낮음
    → 자연스러운 페이드아웃
 
 
-최종완성영상
+* 광고 영상 파일 (MP4 1개)
 https://labs.google/fx/tools/flow/shared/video/c6e4f1a6-1d9c-4b94-9622-4924ac4f6ba0
