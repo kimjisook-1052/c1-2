@@ -262,4 +262,4 @@ CapCut	  ⭐⭐⭐	        즉시	     무료	     낮음
 
 
 * 광고 영상 파일 (MP4 1개)
-https://labs.google/fx/tools/flow/shared/video/c6e4f1a6-1d9c-4b94-9622-4924ac4f6ba0
+
