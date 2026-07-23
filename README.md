@@ -225,6 +225,71 @@
    배경음악 + 내레이션
    톤: 따뜻하고 신뢰감 있음
 
+음향:
+   배경음악 (0~08초, 60%)
+   내레이션 (5~08초, 100%)
+   → 자연스러운 페이드아웃
 
+
+🌿 AI 기반 브랜드 광고 패키지: NatureBorn
+"자연이 만든 것을, 자연 그대로 담았습니다."
+AI 도구를 활용한 8초 브랜드 광고 영상 제작 프로젝트 기획서입니다.
+
+1. 브랜드 아이덴티티 (Brand Identity)
+항목	내용
+브랜드명	NatureBorn (네이처본)
+타겟	20~35세 환경 의식 있는 여성
+톤앤매너	자연친화적, 따뜻함, 청정함, 미니멀
+USP	"자연에서 온 성분 그대로, 피부에 닿는 첫 번째 자연"
+핵심 메시지	자연이 만든 것을, 자연 그대로 담았습니다.
+2. 스토리보드 설계 (Storyboard)
+🎬 전체 구성 (총 8초)
+씬	길이	내용	구조
+씬 1	2초	자연 배경 오프닝	기 (세계관 제시)
+씬 2	2초	제품 클로즈업	승전 (제품 소개)
+씬 3	4초	브랜드 메시지 + 로고	결 (CTA)
+🔍 씬별 상세 명세
+🍃 Scene 01. Intro - 자연의 시작
+목표: 청정 자연의 감성을 첫 컷에 각인
+화면: 이슬 맺힌 초록 잎사귀와 아침 햇살 (와이드샷 → 줌인)
+도구: Midjourney(이미지), Runway Gen-3(모션), ElevenLabs(효과음)
+Prompt: dewy green leaves in misty forest, morning golden hour light, macro photography, soft bokeh, clean and pure atmosphere, 8k, photorealistic
+🧴 Scene 02. Product - 제품 클로즈업
+목표: 자연 성분이 담긴 제품임을 시각적으로 전달
+화면: 대리석 위 제품 용기와 허브 잎 (클로즈업)
+도구: Adobe Firefly(이미지), Pika Labs(회전 모션)
+Prompt: natural skincare product on white marble surface, surrounded by fresh herbs and flower petals, soft natural lighting, luxury minimal aesthetic, commercial photography style, 8k
+✨ Scene 03. Closing - 브랜드 메시지
+목표: 브랜드명과 슬로건 각인
+화면: 부드러운 크림색 배경 위 로고와 슬로건
+도구: Canva AI(배경), Runway(페이드인), ElevenLabs(TTS)
+Prompt: minimal clean background, soft cream and sage green gradient, organic texture, nature-inspired, luxury skincare brand aesthetic
+3. 프롬프트 엔지니어링 로그 (Prompt Log)
+💡 씬 2 프롬프트 개선 과정
+문제점: 초기 프롬프트(skincare cream product photo)는 배경이 단조롭고 브랜드의 '자연' 컨셉이 드러나지 않음.
+
+수정 후: natural skincare product on white marble surface, surrounded by fresh herbs and flower petals, soft natural lighting, luxury minimal aesthetic, commercial photography style, 8k
+개선 포인트:
+재질 추가: marble surface로 고급스러운 질감 표현
+오브제 추가: herbs and flower petals로 자연 성분 시각화
+스타일 지정: luxury minimal로 브랜드 톤앤매너 일치
+4. AI 도구 분석 및 비교 (Tool Analysis)
+🛠 도구별 역할 및 특성
+ChatGPT (Text): 기획, 프롬프트 최적화, 스크립트 작성
+Midjourney (Image): 고품질 키비주얼 생성 (예술적 완성도 높음)
+Runway (Video): 정지 이미지에 생동감 있는 모션 추가
+ElevenLabs (Audio): 자연스러운 AI 내레이션 및 효과음 생성
+📊 비디오 생성 도구 비교
+도구	품질	속도	제어력	선택 이유
+Runway	⭐⭐⭐⭐⭐	느림	최고	최종 선택: 영화 같은 완성도와 세밀한 모션 제어 가능
+Pika	⭐⭐⭐⭐	빠름	좋음	서브 도구로 활용 가능
+CapCut	⭐⭐⭐	즉시	낮음	단순 편집용으로 적합
+5. 최종 영상 통합 흐름 (Integration)
+시간	영상 (Visual)	음향 (Audio)
+0~2s	숲속 줌인 영상	새소리 + 물소리 (자연음)
+3~4s	제품 회전 클로즈업	자연음 유지 + 부드러운 배경음
+5~8s	브랜드 로고 & 슬로건	내레이션: "자연 그대로 담았습니다. 네이처본"
+🎓 학습 소감
+이번 프로젝트를 통해 각 AI 도구의 강점을 결합하는 **'워크플로우 설계'**의 중요성을 배웠습니다. 특히 Runway의 Motion Brush 기능을 활용해 브랜드가 추구하는 '정적인 고급스러움'을 구현한 점이 가장 큰 수확이었습니다.
 
 
