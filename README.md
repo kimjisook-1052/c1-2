@@ -229,4 +229,4 @@ CapCut	  ⭐⭐⭐	        즉시	     무료	     낮음
 
 
 * 광고 영상 파일 (MP4 1개)
-https://labs.google/fx/api/trpc/media.getMediaUrlRedirect?name=ca9894de-226f-4b6b-94ee-4b1aa142dca3&mediaUrlType=MEDIA_URL_TYPE_THUMBNAIL
+https://labs.google/fx/api/trpc/media.getMediaUrlRedirect?name=ca9894de-226f-4b6b-94ee-4b1aa142dca3
